@@ -1,0 +1,8 @@
+name = "SAC L3 同期確認用"
+filename = "sac-l3-test.jar"
+side = "client"
+
+[download]
+url = "https://valiente-4649.github.io/SAC-MOD/packwiz/files/sac-l3-test.jar"
+hash-format = "sha256"
+hash = "1a52e62eec3c9f1477e4d2066bc7de3552d972edb02badc2accdd73ebd587055"
