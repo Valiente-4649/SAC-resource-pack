@@ -3,5 +3,5 @@ hash-format = "sha256"
 [[files]]
 file = "mods/sac-l3-test.pw.toml"
 hash-format = "sha256"
-hash = "bc1498ac12affcb9e88a8d35f6a0f7f76986ff011e385e9e7a82fce8156f2408"
+hash = "ef1c143e20bb56916bd915f146d188b10072ddbdcbac8e3c6b95800922a256a6"
 metafile = true
