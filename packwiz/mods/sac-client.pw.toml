@@ -1,0 +1,8 @@
+name = "SAC MOD Client 0.1.13"
+filename = "sac-client-0.1.13.jar"
+side = "client"
+
+[download]
+url = "https://valiente-4649.github.io/SAC-resource-pack/packwiz/files/sac-client-0.1.13.jar"
+hash-format = "sha256"
+hash = "00fcc52f48b3972e883ed80dc4c25c7f919d66989574966ae60d62bf6fac5c3a"
