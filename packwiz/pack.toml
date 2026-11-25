@@ -1,12 +1,12 @@
 name = "SAC MOD (L3 test)"
 author = "SAC"
-version = "0.1.13"
+version = "0.1.14"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f9754a212bd69537abb6d821d613325d3dce32f2705d7450711f2ef4b1ffeae5"
+hash = "47ab65e1f6808289e2c9027bfb9924ebeb3afc74417b12eeda6bc4a02e2df422"
 
 [versions]
 fabric = "0.20.1"

@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "files/sac-client-0.1.13.jar"
-hash = "00fcc52f48b3972e883ed80dc4c25c7f919d66989574966ae60d62bf6fac5c3a"
+file = "files/sac-client-0.1.14.jar"
+hash = "6b6fbd21a97e50c75a3852730d54c69e17cbba85356d824707edf40b218874cb"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -11,5 +11,5 @@ metafile = true
 
 [[files]]
 file = "mods/sac-client.pw.toml"
-hash = "ec585e1d47297c772d61100675c79fa3dce111287e13d4860bf28fd3c061ac47"
+hash = "59128bb4501900c00d28c97b3233af8a6eec253ecb768ac1b13d175369623d41"
 metafile = true
