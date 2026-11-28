@@ -1,8 +1,8 @@
-name = "SAC MOD Client 0.1.21"
-filename = "sac-client-0.1.21.jar"
+name = "SAC MOD Client 0.1.22"
+filename = "sac-client-0.1.22.jar"
 side = "client"
 
 [download]
-url = "https://valiente-4649.github.io/SAC-resource-pack/packwiz/files/sac-client-0.1.21.jar"
+url = "https://valiente-4649.github.io/SAC-resource-pack/packwiz/files/sac-client-0.1.22.jar"
 hash-format = "sha256"
-hash = "c35eed1bc027301205bbab765264d43bc4d4d24477ef8e76897da287381d79c9"
+hash = "35ae5810237a9a2aacdd7bc2b7faf12b37efa268a0c0074b63d5551a50684deb"
